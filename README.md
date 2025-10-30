@@ -67,9 +67,7 @@ Hey there! I'm Rudrajyoti Roy, a passionate web developer always eager to explor
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudrajyoti11&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 ### 🔥 Streak Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudrajyoti11&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=Rudrajyoti11&theme=material-palenight&hide_border=true" alt="Rudrajyoti11's GitHub Stats" />
 
 ### 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/Rudrajyoti11" alt="Contribution Calendar" width="100%"/>
